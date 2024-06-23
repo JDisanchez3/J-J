@@ -45,7 +45,6 @@ body {
     justify-content: center;
     align-items: center;
 }
-
 p{
     margin-bottom: 40px;
     font-size: 18px;
@@ -171,4 +170,8 @@ objects{
     background-color: #b58900; /* Color del guion */
     margin-right: 10px;
 }
-
+.fotodepie{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

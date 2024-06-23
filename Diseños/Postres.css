@@ -150,12 +150,6 @@ p{
 .about{
     background: #171717;
 }
-.price{
-    background: url(img/costos.jpg) no-repeat center;
-    background-attachment: fixed;
-    background-size: cover;
-    text-align: center;
-}
 .contact{
     padding-top: 20px;
     background: #171717;
