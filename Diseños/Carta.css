@@ -168,3 +168,19 @@ p{
         display: none;
     }
 }
+.col-m-ce{
+    border: 2px solid #b0a027; 
+    padding: 25px;
+    float: left;
+    margin: 20px;
+}
+.col-m-pf{
+    border: 2px solid #b0a027; 
+    padding: 25px;
+    float: left;
+    margin: 20px;
+}
+.titulo1{
+    float: left;
+    border: 2px solid black;
+}

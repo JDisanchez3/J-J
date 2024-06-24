@@ -66,8 +66,8 @@ body {
 p{
     margin-bottom: 40px;
     font-size: 18px;
-    color: #fff;
-    padding: 0 100px;
+    color: #000000;
+    padding: 0px 0px;
 }
 
 .btn{
@@ -162,4 +162,21 @@ p{
     .navbar{
         display: none;
     }
+}
+.col-m-bdesayuno{
+    border: 2px solid #b0a027; 
+    padding: 25px;
+    float: left;
+    margin: 20px;
+}
+.col-m-ddesayuno{
+    border: 2px solid #b0a027; 
+    padding: 25px;
+    float: left;
+    margin: 20px;
+}
+.titulo1{
+    float: left;
+    border: 2px solid black;
+    
 }
