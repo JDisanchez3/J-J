@@ -12,6 +12,7 @@ html{
 body {
     text-align: left;
     font-family: sans-serif;
+    background-image: url(../Imagenes/fondo4.jpg);
 }
 
 .head{
@@ -166,8 +167,20 @@ p{
 }
 
 .locales{
-    border: 2px solid #b0a027;
+    background-color: rgb(202, 141, 61) ;
+    
     padding: 25px;
-    float: left;
+    align-items: center;
     margin: 25px;
+    display: flex;
+    justify-content: center ;
+    flex-direction: column;
+}
+.p{
+    padding: 10px;
+}
+.mapa{
+    display: flex;
+    justify-content:flex-start ;
+    padding: 20px
 }

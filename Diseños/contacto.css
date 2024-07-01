@@ -1,0 +1,22 @@
+
+.iconos{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.iconos{
+    font-size: 40px
+}
+.faceboock{
+    color: blue;
+}
+.whatsapp{
+    color: rgb(3, 196, 3)
+
+}
+.instagram{
+    color: orange;
+}
+.iconos a.hover {
+    transform: scale(1.2);
+}
